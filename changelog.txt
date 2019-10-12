@@ -1,0 +1,9 @@
+
+2019-09-04 Muhammad Haidari
+Release version 1.0
+
+2019-09-11 Muhammad Haidari
+Release version 1.1
+Minor code changes, compiled also binaries for Unix (FreeBSD).
+
+
